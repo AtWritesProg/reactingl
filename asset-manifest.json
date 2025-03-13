@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Textify/static/css/main.f855e6bc.css",
-    "main.js": "/Textify/static/js/main.762cdeeb.js",
-    "static/js/488.2a3aad17.chunk.js": "/Textify/static/js/488.2a3aad17.chunk.js",
-    "static/media/logo.svg": "/Textify/static/media/logo.bbce27b16a102eed94f8c1d10480ffcc.svg",
-    "index.html": "/Textify/index.html",
-    "main.f855e6bc.css.map": "/Textify/static/css/main.f855e6bc.css.map",
-    "main.762cdeeb.js.map": "/Textify/static/js/main.762cdeeb.js.map",
-    "488.2a3aad17.chunk.js.map": "/Textify/static/js/488.2a3aad17.chunk.js.map"
+    "main.css": "/reactingl/static/css/main.f855e6bc.css",
+    "main.js": "/reactingl/static/js/main.a7c7ce30.js",
+    "static/js/488.2a3aad17.chunk.js": "/reactingl/static/js/488.2a3aad17.chunk.js",
+    "static/media/logo.svg": "/reactingl/static/media/logo.bbce27b16a102eed94f8c1d10480ffcc.svg",
+    "index.html": "/reactingl/index.html",
+    "main.f855e6bc.css.map": "/reactingl/static/css/main.f855e6bc.css.map",
+    "main.a7c7ce30.js.map": "/reactingl/static/js/main.a7c7ce30.js.map",
+    "488.2a3aad17.chunk.js.map": "/reactingl/static/js/488.2a3aad17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.762cdeeb.js"
+    "static/js/main.a7c7ce30.js"
   ]
 }
